@@ -109,7 +109,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pramodh7860/ai-trip-planner.git
+   git clone (my repo link.git)
    cd ai-trip-planner
    ```
 
